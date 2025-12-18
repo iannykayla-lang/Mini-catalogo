@@ -5,3 +5,5 @@ Esse projeto é um mini catálogo temático desenvolvido em HTNL e CSS. O tema e
 # Tecnologias utilizadas
 -HTML
 -CSS
+# Autora
+Ianny Kayla
